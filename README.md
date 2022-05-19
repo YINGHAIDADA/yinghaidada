@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/yinghaidada?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yinghaidada&theme=xcode" /> </div>
 <!--
 **YINGHAIDADA/yinghaidada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
